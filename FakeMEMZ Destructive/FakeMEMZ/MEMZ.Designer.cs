@@ -49,7 +49,7 @@ namespace FakeMEMZ
             // 
             // payload1
             // 
-            this.payload1.Interval = 5000;
+            this.payload1.Interval = 10000;
             this.payload1.Tick += new System.EventHandler(this.payload1_Tick);
             // 
             // open_program
@@ -59,7 +59,7 @@ namespace FakeMEMZ
             // 
             // cursor_movement
             // 
-            this.cursor_movement.Interval = 30;
+            this.cursor_movement.Interval = 10;
             this.cursor_movement.Tick += new System.EventHandler(this.cursor_movement_Tick);
             // 
             // payload2
@@ -74,7 +74,7 @@ namespace FakeMEMZ
             // 
             // random_error_sounds
             // 
-            this.random_error_sounds.Interval = 150;
+            this.random_error_sounds.Interval = 180;
             this.random_error_sounds.Tick += new System.EventHandler(this.random_error_sounds_Tick);
             // 
             // payload3
@@ -109,7 +109,7 @@ namespace FakeMEMZ
             // 
             // kill_windows
             // 
-            this.kill_windows.Interval = 50000;
+            this.kill_windows.Interval = 100000;
             this.kill_windows.Tick += new System.EventHandler(this.kill_windows_Tick);
             // 
             // Screen_Glitch

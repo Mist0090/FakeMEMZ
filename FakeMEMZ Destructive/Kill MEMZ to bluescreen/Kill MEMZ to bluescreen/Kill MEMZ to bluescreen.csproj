@@ -55,6 +55,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WinAPI.cs" />
     <EmbeddedResource Include="killMEMZtoBluescreen.resx">
       <DependentUpon>killMEMZtoBluescreen.cs</DependentUpon>
     </EmbeddedResource>

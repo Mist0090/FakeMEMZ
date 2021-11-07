@@ -7,3 +7,12 @@ C:\Users\Owner\デスクトップ\FakeMEMZ\FakeMEMZ 2.0\FakeMEMZ Destructive\Fak
 C:\Users\Owner\デスクトップ\FakeMEMZ\FakeMEMZ 2.0\FakeMEMZ Destructive\FakeMEMZ_Run\bin\Debug\MEMZ.pdb
 C:\Users\Owner\デスクトップ\FakeMEMZ\FakeMEMZ 2.0\FakeMEMZ Destructive\FakeMEMZ_Run\obj\Debug\MEMZ.exe
 C:\Users\Owner\デスクトップ\FakeMEMZ\FakeMEMZ 2.0\FakeMEMZ Destructive\FakeMEMZ_Run\obj\Debug\MEMZ.pdb
+C:\Users\Owner\デスクトップ\FakeMEMZ\FakeMEMZ 2.1\FakeMEMZ Destructive\FakeMEMZ_Run\bin\Debug\MEMZ.exe
+C:\Users\Owner\デスクトップ\FakeMEMZ\FakeMEMZ 2.1\FakeMEMZ Destructive\FakeMEMZ_Run\bin\Debug\MEMZ.pdb
+C:\Users\Owner\デスクトップ\FakeMEMZ\FakeMEMZ 2.1\FakeMEMZ Destructive\FakeMEMZ_Run\obj\Debug\FakeMEMZ_Run.csproj.AssemblyReference.cache
+C:\Users\Owner\デスクトップ\FakeMEMZ\FakeMEMZ 2.1\FakeMEMZ Destructive\FakeMEMZ_Run\obj\Debug\FakeMEMZ_Run.run_FakeMEMZ.resources
+C:\Users\Owner\デスクトップ\FakeMEMZ\FakeMEMZ 2.1\FakeMEMZ Destructive\FakeMEMZ_Run\obj\Debug\MEMZ.Properties.Resources.resources
+C:\Users\Owner\デスクトップ\FakeMEMZ\FakeMEMZ 2.1\FakeMEMZ Destructive\FakeMEMZ_Run\obj\Debug\FakeMEMZ_Run.csproj.GenerateResource.cache
+C:\Users\Owner\デスクトップ\FakeMEMZ\FakeMEMZ 2.1\FakeMEMZ Destructive\FakeMEMZ_Run\obj\Debug\FakeMEMZ_Run.csproj.CoreCompileInputs.cache
+C:\Users\Owner\デスクトップ\FakeMEMZ\FakeMEMZ 2.1\FakeMEMZ Destructive\FakeMEMZ_Run\obj\Debug\MEMZ.exe
+C:\Users\Owner\デスクトップ\FakeMEMZ\FakeMEMZ 2.1\FakeMEMZ Destructive\FakeMEMZ_Run\obj\Debug\MEMZ.pdb

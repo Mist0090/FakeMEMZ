@@ -31,12 +31,18 @@ namespace Kill_MEMZ_to_bluescreen
         {
             this.components = new System.ComponentModel.Container();
             this.bsod = new System.Windows.Forms.Timer(this.components);
+            this.MsgBox = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // bsod
             // 
-            this.bsod.Interval = 1000;
+            this.bsod.Interval = 5000;
             this.bsod.Tick += new System.EventHandler(this.bsod_Tick);
+            // 
+            // MsgBox
+            // 
+            this.MsgBox.Interval = 50;
+            this.MsgBox.Tick += new System.EventHandler(this.Msg_Tick);
             // 
             // kill_memz_to_bluescreen
             // 
@@ -63,6 +69,7 @@ namespace Kill_MEMZ_to_bluescreen
         #endregion
 
         private System.Windows.Forms.Timer bsod;
+        private System.Windows.Forms.Timer MsgBox;
     }
 }
 
