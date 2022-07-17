@@ -1,9 +1,0 @@
-C:\Users\Owner\source\repos\FakeMEMZ Clean\FakeMEMZ Clean\bin\Debug\FakeMEMZ Clean.exe
-C:\Users\Owner\source\repos\FakeMEMZ Clean\FakeMEMZ Clean\bin\Debug\FakeMEMZ Clean.pdb
-C:\Users\Owner\source\repos\FakeMEMZ Clean\FakeMEMZ Clean\obj\Debug\FakeMEMZ Clean.csproj.AssemblyReference.cache
-C:\Users\Owner\source\repos\FakeMEMZ Clean\FakeMEMZ Clean\obj\Debug\FakeMEMZ_Clean.Properties.Resources.resources
-C:\Users\Owner\source\repos\FakeMEMZ Clean\FakeMEMZ Clean\obj\Debug\FakeMEMZ Clean.csproj.GenerateResource.cache
-C:\Users\Owner\source\repos\FakeMEMZ Clean\FakeMEMZ Clean\obj\Debug\FakeMEMZ Clean.csproj.CoreCompileInputs.cache
-C:\Users\Owner\source\repos\FakeMEMZ Clean\FakeMEMZ Clean\obj\Debug\FakeMEMZ Clean.exe
-C:\Users\Owner\source\repos\FakeMEMZ Clean\FakeMEMZ Clean\obj\Debug\FakeMEMZ Clean.pdb
-C:\Users\Owner\source\repos\FakeMEMZ Clean\FakeMEMZ Clean\obj\Debug\FakeMEMZ_Clean.ControlPanel.resources
